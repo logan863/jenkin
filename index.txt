@@ -1,0 +1,13 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 0841-12B9
+
+ Directory of C:\Users\vinay\Desktop\Jenkin
+
+21-02-2020  13:35    <DIR>          .
+21-02-2020  13:35    <DIR>          ..
+20-02-2020  11:22               675 Hello.class
+19-01-2020  23:49               149 Hello.java
+21-02-2020  13:35                 0 index.txt
+21-02-2020  13:35               440 readme.txt
+               4 File(s)          1,264 bytes
+               2 Dir(s)  465,053,163,520 bytes free
